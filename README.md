@@ -226,7 +226,3 @@ npx serve .
 | 8 | **Dual order flow** — in-store POS + online customer orders |
 | 9 | **GST-compliant** — auto CGST/SGST on every transaction |
 | 10 | **2-step order completion** — staff fulfills, customer confirms |
-
----
-
-*Built with ❤️ by Team Cloud Nine — Hackathon 2026*
