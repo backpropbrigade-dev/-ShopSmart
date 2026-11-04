@@ -2,9 +2,6 @@
 
 **AI-powered retail management for small businesses — zero dependencies, fully offline-capable.**
 
-> Built by **Team Cloud Nine** — Soniya, Lasya, Dedeepya, Sameer
-> **Track:** RetailTech / AI for Small Business · **Hackathon 2025**
-
 ---
 
 ## Tech Stack
